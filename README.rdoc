@@ -1,0 +1,3 @@
+= Specify Project Author Plugin
+
+Simple Redmine plugin for Project Author selection
